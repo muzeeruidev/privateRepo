@@ -1,0 +1,3 @@
+# privateRepo
+
+CopyRights will apply
